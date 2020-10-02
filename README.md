@@ -8,7 +8,7 @@ In this python basic we cover
    Loop statement.
    Function.
    File handling
-   Oops
+   Object oriented programming
    GUI
    Turtle
 
